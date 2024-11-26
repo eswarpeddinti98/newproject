@@ -1,2 +1,4 @@
-# newproject
-#The dataset was taken from Kaggle to showcase my Tableau visualisation skills, the dataset required cleaning and manipulating before getting visualised SQL was used to clean and analyse data to create unique tables which later were used for visualisation. When the project was completed the visualisation was effective enough to be easily understood
+# DeepLearning Excercise Books(Completed)
+# Abstract
+
+# The students gain a comprehensive understanding of essential predictive analytics techniques and develop proficiency in using common standard tools, such as, e.g., Python, Tensorflow, Keras, and Scikit-learn, to perform independent analyses. They learn to critically evaluate the validity and relevance of results and apply their newfound skills to tackle new and complex scenarios objectively. By the end of the module, students will have developed a strong foundation in predictive analytics, allowing them to make informed decisions and solve real-world problems using data-driven insights. The students prove their application-oriented knowledge and competences by solving well-defined problems and exercises during a practical examination. This form of examination also evaluates the student’s interpretation capabilities.
